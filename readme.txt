@@ -12,6 +12,12 @@ European Union law state you must ask permission for cookies. This plugin handle
 
 == Description ==
 
+**IMPORTANT NOTICE 2015:**
+
+* This plugin has not been updated in two years and is not in active development since then, all information here is dated august 2013 !
+* Most important reason for not being developed actively any longer is that European Law on cookies has changed (again) and most websites no longer need to ask permission to use cookies. **Nowadays you only need to actively inform your visitors about the use of cookies. This plugin would be overkill for that.**
+* This plugin in it's current state is not compatible with WordPress 4.1 and up, and most likely not compatible with WordPress 4.0. Due to budgetting and planning issues, this will not likely change in the near future.
+
 European law states:
 
 + A website must inform the visitor about both presence and function of each cookie the website creates
